@@ -34,7 +34,6 @@ My personal GitHub profile README
 ## 📬 Let's Connect!
 - 📧 [yordanosketema13@gmail.com](mailto:yordanosketema13@gmail.com)
 - 📱 Telegram: [@Yordanos_Ketema](https://t.me/Yordanos_Ketema)
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(add your LinkedIn link here)*
 - 📸 [Instagram](https://instagram.com/ketema.yordanos)
 - 💼 [Facebook](https://facebook.com/yordanosalewab)
 
