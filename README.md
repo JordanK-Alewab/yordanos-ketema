@@ -1,54 +1,45 @@
 # yordanos-ketema
 My personal GitHub profile README
-# 👋 Hi, I'm Yordanos Ketema
+# Hi there, I'm Yordanos Ketema 👋
 
-🎓 Second-year student at **Addis Ababa University, School of Commerce**  
-📚 Studying **Business Administration and Information Systems (BAIS)**  
-💻 Passionate about **technology, digital skills, and business innovation**
-
----
-
-## 🚀 What I’m Learning
-- Microsoft Office Suite (Word, Excel, PowerPoint)
-- Customer Service & Communication Skills
-- Basic Programming and Digital Literacy
-- LinkedIn Optimization & Chatbot Development
-- Web Development (beginner level)
+🎓 I'm currently studying **Business Administration and Information Systems (BAIS)** at Addis Ababa University, School of Commerce.  
+💻 I'm passionate about combining **technology** and **business** to solve real-world problems.  
+📊 Currently learning **Microsoft Office**, **customer service**, and exploring **web development** as a bonus skill.  
 
 ---
 
-## 💼 Certifications & Trainings
-- ✅ **My Digital World Training** by KEMMCOM & Meta  
-- ✅ **M-Academy: Gig-101, Business, Legal, Finance** by Mesirat Program  
-- ✅ **Power Up Your Digital Life** – Graphic Design, Chatbots, and More
+## 💡 What I'm Working On
+- Building simple business-related tools using Excel and Python
+- Learning web development (HTML, CSS, basic JavaScript)
+- Improving my Git and GitHub skills
+- Expanding my knowledge of digital marketing through My Digital World training
 
 ---
 
-## 🛠️ Tools & Skills
-![Office](https://img.shields.io/badge/-Microsoft_Office-blue?style=flat-square&logo=microsoft)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-orange?style=flat-square&logo=microsoft-powerpoint)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+## 🛠️ Skills & Tools
+- **Soft Skills**: Communication, Time Management, Adaptability, Teamwork
+- **Hard Skills**: Microsoft Word, Excel, PowerPoint | Digital Literacy | Data Analysis
+- **Tools**: Git, GitHub, VS Code, Canva
 
 ---
 
-## 🌱 Current Goals
-- Sharpen my Microsoft Office & data analysis skills  
-- Learn web development basics (HTML, CSS, JavaScript)  
-- Contribute to open-source projects  
-- Build a strong digital portfolio  
+## 📈 Goals for 2025
+- ✅ Finish a beginner web development project
+- ✅ Contribute to at least one open-source repository
+- 📚 Learn Python for business data analysis
+- 🌐 Launch a personal portfolio website
 
 ---
 
-## 📫 Let’s Connect!
-- 📧 yordanosketema13@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yordanos-jordan-ketema)
+## 📬 Let's Connect!
+- 📧 [yordanosketema13@gmail.com](mailto:yordanosketema13@gmail.com)
 - 📱 Telegram: [@Yordanos_Ketema](https://t.me/Yordanos_Ketema)
-- 🧠 Instagram: [@ketema.yordanos](https://instagram.com/ketema.yordanos)
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(add your LinkedIn link here)*
+- 📸 [Instagram](https://instagram.com/ketema.yordanos)
+- 💼 [Facebook](https://facebook.com/yordanosalewab)
 
 ---
 
-> “Dream big, work hard — and one day, I'll drive that Lamborghini.” 🏎️
+_“Small steps every day lead to big results.”_
 
-update README
+
